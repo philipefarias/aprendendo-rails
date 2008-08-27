@@ -5,6 +5,22 @@ Por favor, façam o fork e comecem a brincar com o GIT, já já vamos
 brincar com Ruby on Rails :)
 
 #######
-Galera, uma coisa que estava me deixando irritado, era o fato de fazer isso manualmente, até que o Elomar pediu pra eu adicionar vocês como colaboradores...
+Galera, uma coisa que estava me deixando irritado, era o fato de fazer o pull manualmente, até que o Elomar pediu pra eu adicionar vocês como colaboradores...
 
 Só que surgiu um problema, como fazer as coisas? Então conversando a pouco com o Juarez, a gente conseguiu :D
+
+Primeiro passo é adicionar o meu repositorio como remoto:
+git remote add <nomeRemotoQueVoceQuiser> git://github.com/caironoleto/aprendendo-rails.git
+
+Agora, para atualizar é só usar:
+git pull <nomeRemotoQueVoceQuiser> <branchOQualVoceQuerFazerOMerge> #=> algo como git pull juarez master
+
+Agora sempre ficará atualizado com o meu repositorio.
+
+Faça suas alterações, depois é só retornar para o meu repositorio( http://github.com/caironoleto/aprendendo-rails/commits/master ), não sei se vocês perceberam, mas agora tem uma linha lá:
+Your Clone URL: git@github.com:caironoleto/aprendendo-rails.git
+
+Essa linha está aí porque estou adicionando todos vocês como colaboradores, e com esse "host/email" vocês podem mandar suas alterações diretamente para meu repositorio, sem a necessidade de vocês fazerem pull requests
+
+Aqui começa a mágica, depois de vocês fizerem as alterações, apenas dê:
+git push git@github.com:caironoleto/aprendendo-rails.git
