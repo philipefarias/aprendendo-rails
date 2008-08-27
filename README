@@ -24,3 +24,9 @@ Essa linha está aí porque estou adicionando todos vocês como colaboradores, e
 
 Aqui começa a mágica, depois de vocês fizerem as alterações, apenas dê:
 git push git@github.com:caironoleto/aprendendo-rails.git
+
+#######
+
+ATENÇÃO A TODOS - CONFIGUREM O ENCODING DE SEUS EDITORES PARA UTF-8
+
+No Windows é comum que não seja...
