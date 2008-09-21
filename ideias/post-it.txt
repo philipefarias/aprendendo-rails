@@ -1,1 +1,11 @@
-post-it online
+post-it online, colaborativo, tomando como base aplicações como
+http://zapits.com/
+http://www.takkr.com/
+http://en.linoit.com/
+
+Abraão:
+...
+[23:59:36] … a idéia surgiu em ciam dessa sua idéia Edilson
+[23:59:45] … um grupo pode vir e pregar os Posts no quadro
+[00:00:00] … outros podem vir a ler, alterar, apagar
+[00:00:10] … praticamente o whiteboard do scrum team
