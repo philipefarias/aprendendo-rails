@@ -1,0 +1,9 @@
+Composição de música online.
+o usuário seleciona o instrumento e monta a partitura, ou tablatura, no site.
+ao submeter o formulario, a partitura/tablatura é processada e gera um arquivo
+mp3 ou mid para download com a composição criada :)
+
+se for mid, blz, trabalhamos com o que é universal.
+se for mp3, precisaríamos gravar cada nota e salvar em arquivo.
+tornaria mais complexo também... temos notas e tempos, entao
+cada nota poderia ser gravada com tamanhos diferentes de tempo.
