@@ -1,1 +1,2 @@
-algo como http://tastyplanner.com
+Um site de compartilhamento de receitas voltado para a realidade nacional (unidades de medida, moeda, etc.).
+Algo como http://tastyplanner.com [Philipe]

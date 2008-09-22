@@ -1,7 +1,10 @@
-algo como http://gradeseed.brokenruler.com/
+A idéia que tive foi fazer algo como http://gradeseed.brokenruler.com/
+Para professores e alunos mesmo. Mas isso pode mudar, claro. [Philipe]
+
+-----
 É muito burocrático.
 Vamos pensar no nosso problema:
 	Faríamos o cadastro de uma reunião, dizendo o dia, a hora, os requisitos para participar e a quantidade de pautas que entraria nessa reunião.
 	Finalizado o cadastro da reunião, seria criado pelos usuários as pautas, e por sistema de votação, essas pautas seriam classificadas pela mais pontuadas. Cada pauta poderia ser brevemente comentada, cada pauta teria links, descrição, por que ela é uma pauta, entre outras coisas.
 	Uma hora antes da reunião, o sistema pegava o numero definido de pautas na reunião pelas mais votadas e enviaria diretamente por email, e para um email público (A lista).
-	Durante as reuniões, seguiriámos a pauta pela ordem de votação, assim indo das mais importantes para as menos importantes, e assim que a PAUTA for finalizada, o owner da REUNIÃO vai lá e muda o status da pauta para finalizado. Se a reunião acabar e se sobrar pautas sem status finalizado, elas seriam recolocadas no sistema e a votação dela zerada, sendo que essas pautas pulariam para a próxima reunião automaticamente.
+	Durante as reuniões, seguiriámos a pauta pela ordem de votação, assim indo das mais importantes para as menos importantes, e assim que a PAUTA for finalizada, o owner da REUNIÃO vai lá e muda o status da pauta para finalizado. Se a reunião acabar e se sobrar pautas sem status finalizado, elas seriam recolocadas no sistema e a votação dela zerada, sendo que essas pautas pulariam para a próxima reunião automaticamente. [Cairo]
