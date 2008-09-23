@@ -1,0 +1,17 @@
+Um site para adição e edição de legendas de vídeos online (youtube, vimeo, etc.) de forma compartilhada. [Philipe]
+
+CENÁRIOS
+-----
+01 Ao informar a url de um vídeo do youtube o sistema apresentará uma opção para exibir o vídeo com alguma das legendas disponíveis e outra opção para criar uma legenda ou editar uma existente..
+02 Ao visualizar o vídeo com uma legenda haverá uma opção para avaliar esta.
+----- [Philipe]
+
+
+REFERÊNCIAS
+-----
+Para lidar com formatos comuns de legendas pode ser usada a lib subtitle_it:
+http://github.com/nofxx/subtitle_it/
+
+Um projeto voltado apenas para edição de legendas está sendo desenvolvido em Sinatra (DSL em Ruby para webdev). Ainda está em versão pré-pré-alpha e utiliza ajax extensamente. Tem algumas idéias interessantes.
+http://github.com/vic/sube/
+----- [Philipe]
