@@ -9,6 +9,8 @@ CENÁRIOS
 
 REFERÊNCIAS
 -----
+http://br.yappr.com - bem parecido com minha idéia...
+
 Para lidar com formatos comuns de legendas pode ser usada a lib subtitle_it:
 http://github.com/nofxx/subtitle_it/
 
