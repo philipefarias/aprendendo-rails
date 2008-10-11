@@ -1,0 +1,13 @@
+<head>
+  aprendendo-rails / Desenvolvimento de "app_name" / Sprint X
+  Cliente: Feliz da Silva
+  Scrum Master: Pai Bonifácio
+  Time: William Paixão, Philipe Farias, Cairo Noleto...
+</head>
+
+<body>
+	Quais novas histórias serão feitas?
+	Essas histórias são realmente as mais importantes?
+	Existe alguma coisa (links, idéias, sugestões) a ser compartilhada com o time?
+	Existe algum plugin/gem que pode ser útil para resolver alguma historia? 
+</body>

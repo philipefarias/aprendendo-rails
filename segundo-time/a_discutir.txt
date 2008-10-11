@@ -1,0 +1,29 @@
+Pontos a serem discutidos:
+
+Reuniões:
+	Semanais de 1 hora - Pq? É possível? Horário fixo? Qual?
+	Diárias de 15 minutos (Daily Meeting) - Pq? É possível? Horário fixo? Qual?
+
+Composição do time:
+  Cliente - É necessário? Quem? Desenvolvedor ou não (de preferência que não seja)?
+  Scrum Master - É necessário? Quem? Um dos desenvolvedores?
+	Designer - É necessário? Quem? Alguém específico para o design?
+	Desenvolvedores - Quantos no mínimo para iniciar o projeto? Quem decide quem entra no time? Todos?
+	
+Escolha de um tema. (totalmente novo ou já discutido e cadastrado no github)
+	Quem participará da escolha do tema ? 
+		somente os membros do time ?
+		somente o cliente ?
+		aberto a outros ?
+
+Adoção de ferramentas:
+	Scrumy		(scrum)			http://www.scrumy.com/
+	Google Docs	(qualquer coisa)		http://docs.google.com
+	PivotalTracker 	(scrum)			https://www.pivotaltracker.com/signin
+  Basecamp	(Ger. de Projeto)	http://www.basecamphq.com/
+
+Definir um cronograma com data final - É necessário? Caso sim, quem define? O que tem no cronograma?
+
+Código da app online disponível para todos:
+	github		http://www.github.com
+  heroku		http://heroku.com

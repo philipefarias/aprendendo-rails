@@ -1,0 +1,12 @@
+<head>
+  aprendendo-rails / Desenvolvimento de "app_name" / Sprint X
+  Cliente: Feliz da Silva
+  Scrum Master: Pai Bonifácio
+  Time: William Paixão, Philipe Farias, Cairo Noleto...
+</head>
+
+<body>
+  1	-	O que você fez ontem ?
+  2	-	O que você fará hoje ?
+  3	-	Existe algum impedimento para que você continue ?
+</body>
