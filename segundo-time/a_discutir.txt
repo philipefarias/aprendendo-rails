@@ -2,43 +2,36 @@ Pontos a serem discutidos:
 
 Reuniões:
   Semanais de 1 hora - Pq? É possível? Horário fixo? Qual?
-    Tercas e Quintas as 23 horas.
+    Terças e Quintas as 23 horas.
   Diárias de 15 minutos (Daily Meeting) - Pq? É possível? Horário fixo? Qual?
     no horario do almoco.
   OBS: Os horarios das reunioes poderao ser ajustados conforme necessidade, principalmente a Daily Meeting.
 
 Composição do time:
   Cliente - É necessário? Quem? Desenvolvedor ou não (de preferência que não seja)?
-     Sim. Estaremos procurando um Cliente inicialmente no time 1, caso nao encontremos,
-     pesquisaremos na lista como um todo, em ultimo caso, um dos membros do time sera o cliente.
-     
+     Sim. Estamos a procura de um cliente. Este pode ser também de fora do grupo aprendendo-rails.
+
   Scrum Master - É necessário? Quem? Um dos desenvolvedores?
      Sim, :quem => "a decidir"
 
   Web Designer - É necessário? Quem? Alguém específico para o design?
-     Sim. Estaremos procurando um Web Designer na lista como um todo, em ultimo caso, 
-     um membro do grupo fara modificacoes porem todos poderao opinar.
-     
+     Sim. Estaremos procurando um Web Designer em qualquer lugar, em último caso, um membro do grupo fara modificações porem todos poderão opinar.
+
   Desenvolvedores - Quantos no mínimo para iniciar o projeto? Quem decide quem entra no time? Todos?
      4 pessoas. Scrum Master juntamente com o time.
-	
-Escolha de um tema. (totalmente novo ou já discutido e cadastrado no github)
-	Quem participará da escolha do tema ? 
-		somente os membros do time ?
-		somente o cliente ?
-		aberto a outros ?
-		>> ITEM PENDENTE devido a falta de membros na reuniao
-		
+
+Escolha de um tema:
+  O cliente escolherá o tema com ajuda do time. Este poderá ser novo ou um das já discutidos anteriormente no grupo.
+
 Adoção de ferramentas:
-  Scrumy		(scrum)			http://www.scrumy.com/
-  Google Docs	(qualquer coisa)		http://docs.google.com
-  PivotalTracker 	(scrum)			https://www.pivotaltracker.com/signin
-  Basecamp	(Ger. de Projeto)	http://www.basecamphq.com/
-  >> ITEM PENDENTE devido a falta de membros na reuniao
-  
+  Será utilizada a Pivotal Tracker como ferramenta principal para gerenciamento do projeto e o Google Docs para qualquer necessidade extra.
+  Google Docs      (qualquer coisa) http://docs.google.com
+  Pivotal Tracker  (scrum)          https://www.pivotaltracker.com/
+
 Definir um cronograma com data final - É necessário? Caso sim, quem define? O que tem no cronograma?
-  >> ITEM PENDENTE devido a falta de membros na reuniao
+  Haverá um cronograma com prazo final e algumas estimativas mas seu escopo será variável.
+
 Código da app online disponível para todos:
-  github		http://www.github.com
-  heroku		http://heroku.com
-  >> ITEM PENDENTE devido a falta de membros na reuniao
+  O repositório principal ficará no github. Inicialmente o heroku também será utilizado para deploy.
+  github  http://www.github.com
+  heroku  http://heroku.com
